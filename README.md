@@ -17,7 +17,7 @@ zleceniasprzatania – zamówienia usług (data, klient, pracownik, usługa).
 
 modyfikacje – przechowuje datę ostatniej modyfikacji danych.
 
-�️ Widoki:
+ Widoki:
 
 task_1 – wyszukuje klientów, którzy zamówili „Czyszczenie dywanów”.
 
